@@ -1,0 +1,2 @@
+<button <?php echo e($attributes->merge(['class' => 'btn btn-primary account-btn', 'type' => 'submit'])); ?>><?php echo e($slot); ?></button>
+<?php /**PATH C:\Users\harsh\Downloads\Laravel-Smarthr-main\Laravel-Smarthr-main\resources\views/components/form/button.blade.php ENDPATH**/ ?>
